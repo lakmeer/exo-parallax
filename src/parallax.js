@@ -8,10 +8,6 @@
 
 var Scene = function (_canvas, _data_layers, _data_ref, _data_eyes, _data_stars) {
 
-  // TEMP
-  _canvas.style.width = "100%";
-  _canvas.style.display = "block";
-
   // Prepare display canvas
   var canvas        = _canvas,          // The canvas and 2d context from it
       c             = canvas.getContext('2d');
