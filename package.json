@@ -1,0 +1,19 @@
+{
+  "name": "exocomics-200",
+  "version": "0.1.1",
+  "description": "Parallax engine for exocomics #200",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "lakmeer (github.com/lakmeer)",
+  "license": "GPL3",
+  "dependencies": {
+    "gulp-concat": "^2.6.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-connect": "^2.2.0",
+    "gulp-util": "^3.0.6"
+  }
+}
